@@ -31,7 +31,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2800 Faucetter Dr. Jordan Hall 4133
+  - line: 2800 Faucetter Dr. 
+  - line: Jordan Hall 4133
   - line: Raleigh, NC 27606
 
 # Credits content
