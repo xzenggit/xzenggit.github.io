@@ -446,4 +446,15 @@ footer .footer-below {
 
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
+<<<<<<< HEAD
 }
+=======
+}
+
+// Fix modal mouse wheel issues
+// https://github.com/twbs/bootstrap/issues/16297 
+.modal.fade.in {
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+}
+>>>>>>> 6ee599856e1749ba2e8b1d549661f1284592daa5
